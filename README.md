@@ -1,10 +1,8 @@
-# What is this experiment for
-
 In the JACS paper, newly generated molecules were scored with an ML model trained on ~8,000 experimental rows covering 295 unique ligands. Each row had 1,860 features: 2D ECFP fingerprints, RDKit descriptors, and experimental conditions and metal properties. These 2D features are identical for a given ligand regardless of the metal, and they carry no information about how the ligand binds. 
 
 Here, this experiment tests whether 3D descriptors add more information: 
 - g-xTB structures of each metal–ligand complex
-- summarized with persistent homology (PD summary features and persistence images). 
+- summarized with persistent homology (PD summary features and persistence images). 
 - Scope: 1,471 complexes, 7,053 of the 8,075 rows (+3 metals and Th(IV); +5/+6 actinyls and reduced Pu/Np(IV) excluded). 
 
 **Result:** the 3D descriptors did not improve on the 2D model. Their information largely overlaps with the 2D features.
@@ -22,7 +20,7 @@ Here, this experiment tests whether 3D descriptors add more information:
 		- Constraining the angle to 180° did not fix the M=O distance or the spin and pushed out equatorial ligands. All dropped. 
 - Final dataset: 1471 structures, 7053 of 8075 rows (87%).
 
-## Persistent Homology
+## Persistent Homology
 ### Persistent Diagram:
 -  Vietoris-Rips with ripser maxdim=1 on the pairwise distance matrix.
 - Eu-specific names were generalised for 20 metals: `EuNO` → `MNO`, `EuNOS` → `MNOS`, `_Eu_` → `_M_`.
