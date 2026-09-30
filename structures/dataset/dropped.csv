@@ -1,0 +1,195 @@
+level,source,name,idx,SMILES,element,ox,reason,Z,split,n_rows
+combination,xtb-complex-gxtb,2_La,2.0,CN(C(=O)COCC(=O)N(C)c1ccccc1)c1ccccc1,La,3,run failed (SCF / not converged / no output),,,
+combination,xtb-complex-gxtb,40_Sm,40.0,CCN(CC)C(=O)COCC(=O)N(CC)CC,Sm,3,run failed (SCF / not converged / no output),,,
+combination,xtb-complex-gxtb,44_Am,44.0,CCCCCCCCCCN(CCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCC)CCCCCCCCCC,Am,3,a design donor left,,,
+combination,xtb-complex-gxtb,57_Gd,57.0,CCCCCCOP(=O)(O)OCCCCCC,Gd,3,a design donor left,,,
+combination,xtb-complex-gxtb,58_Tm,58.0,CC12CCC(c3nnc(-c4cccc(-c5nnc6c(n5)C5(C)CCC6C5(C)C)n4)nc31)C2(C)C,Tm,3,CN rose (not a lost water); outside the inclusion rule,,,
+combination,xtb-complex-gxtb,67_Tm,67.0,CCCc1nnc(-c2cccc(-c3nnc(CCC)c(CCC)n3)n2)nc1CCC,Tm,3,CN rose (not a lost water); outside the inclusion rule,,,
+combination,xtb-complex-gxtb,73_Nd,73.0,O=C(O)CN(CCO)CCN(CC(=O)O)CC(=O)O,Nd,3,run failed (SCF / not converged / no output),,,
+combination,xtb-complex-gxtb,75_Ce,75.0,CCN(C(=O)c1cccc(C(=O)N(CC)c2ccc(C)cc2)n1)c1ccc(C)cc1,Ce,3,run failed (SCF / not converged / no output),,,
+combination,xtb-complex-gxtb,79_Nd,79.0,CCCCN(C)C(=O)CC(=O)N(C)CCCC,Nd,3,run failed (SCF / not converged / no output),,,
+combination,xtb-complex-gxtb,101_Tm,101.0,CC1(C)CCC(C)(C)c2nc(-c3cccc(-c4cccc(-c5nnc6c(n5)C(C)(C)CCC6(C)C)n4)n3)nnc21,Tm,3,CN rose (not a lost water); outside the inclusion rule,,,
+combination,xtb-complex-gxtb,104_Er,104.0,CCCCN(CCCC)C(=O)c1ccccc1C(=O)O,Er,3,a design donor left,,,
+combination,xtb-complex-gxtb,120_Am,120.0,CCCCCCCCN(CCCCCCCC)C(=O)CN(CC(=O)N(CCCCCCCC)CCCCCCCC)c1ccccc1,Am,3,CN rose (not a lost water); outside the inclusion rule,,,
+combination,xtb-complex-gxtb,120_Eu,120.0,CCCCCCCCN(CCCCCCCC)C(=O)CN(CC(=O)N(CCCCCCCC)CCCCCCCC)c1ccccc1,Eu,3,CN rose (not a lost water); outside the inclusion rule,,,
+combination,xtb-complex-gxtb,142_Am,142.0,CCCCCCCCN(CCCCCCCC)C(=S)c1ccc(C(=S)N(CCCCCCCC)CCCCCCCC)s1,Am,3,CN rose and a design donor left,,,
+combination,xtb-complex-gxtb,142_Eu,142.0,CCCCCCCCN(CCCCCCCC)C(=S)c1ccc(C(=S)N(CCCCCCCC)CCCCCCCC)s1,Eu,3,CN rose and a design donor left,,,
+combination,xtb-complex-gxtb,149_Eu,149.0,CCCCOP(=S)(CP(=S)(OCCCC)OCCCC)OCCCC,Eu,3,a design donor left,,,
+combination,xtb-complex-gxtb,157_Am,157.0,CCCCCCCCN(CCCCCCCC)C(=O)COCP(=O)(OCCCC)OCCCC,Am,3,a design donor left,,,
+combination,xtb-complex-gxtb,182_Ce,182.0,CCCCCCOP(=O)(OCCCCCC)C(=O)N(CC)CC,Ce,3,run failed (SCF / not converged / no output),,,
+combination,xtb-complex-gxtb,193_Eu,193.0,CCN(CC)C(=O)COc1c2cc(C(C)(C)C)cc1Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)C2,Eu,3,a design donor left,,,
+combination,xtb-complex-gxtb,204_Am,204.0,CCCCNC(=O)C(CC)C(=O)Nc1ccccc1NC(=O)C(CC)C(=O)NCCCC,Am,3,run failed (SCF / not converged / no output),,,
+combination,xtb-complex-gxtb,215_Am,215.0,CCCCNC(=S)C(CC)C(=S)Nc1ccc(NC(=S)C(CC)C(=S)NCCCC)cc1,Am,3,CN rose and a design donor left,,,
+combination,xtb-complex-gxtb,215_Eu,215.0,CCCCNC(=S)C(CC)C(=S)Nc1ccc(NC(=S)C(CC)C(=S)NCCCC)cc1,Eu,3,CN rose and a design donor left,,,
+combination,xtb-complex-gxtb,232_Am,232.0,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCCCCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,Am,3,run failed (SCF / not converged / no output),,,
+combination,xtb-complex-gxtb,237_La,237.0,CCCCCCCCP(=O)(CC(=O)N(CCCC)CCCC)c1ccccc1,La,3,run failed (SCF / not converged / no output),,,
+combination,xtb-complex-gxtb,239_La,239.0,CCCCOP(=O)(OCCCC)OCCCC,La,3,run failed (SCF / not converged / no output),,,
+combination,xtb-complex-gxtb,254_Am,254.0,O=C(COCC(=O)N(c1ccccc1)c1ccccc1)N(c1ccccc1)c1ccccc1,Am,3,a design donor left,,,
+combination,xtb-complex-gxtb,283_Nd,283.0,CCN(C(=O)c1cccc(-c2cccc(C(=O)N(CC)c3cc(C)ccc3C)n2)n1)c1cc(C)ccc1C,Nd,3,run failed (SCF / not converged / no output),,,
+combination,xtb-complex-gxtb,290_Am,290.0,CCCCOP(=S)(COCP(=S)(OCCCC)OCCCC)OCCCC,Am,3,CN rose (not a lost water); outside the inclusion rule,,,
+combination,xtb-complex-gxtb-ox4,12_Pu,12.0,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,14_Pu,14.0,CCCCCCCCCCCCN(CCCCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCCCC)CCCCCCCCCCCC,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,15_Pu,15.0,CCCCCCN(CCCCCC)C(=O)COCC(=O)N(CCCCCC)CCCCCC,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,17_Pu,17.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)COCC(=O)N(CC(CC)CCCC)CC(CC)CCCC,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,82_Pu,82.0,CCCCCCCCP(=O)(CC(=O)N(CC(C)C)CC(C)C)c1ccccc1,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,174_Np,174.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,Np,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,174_Pu,174.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,183_Pu,183.0,CCCCCCCC(=O)N(CCCCCC)CCCCCC,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,184_Pu,184.0,CCCCCCCCCCCCCCC(C(=O)N(C)CCCC)C(=O)N(C)CCCC,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,239_Pu,239.0,CCCCOP(=O)(OCCCC)OCCCC,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,253_Pu,253.0,CCCCCCCCCCN(CCCCCCCCCC)C(=O)C(C)OC(C)C(=O)N(CCCCCCCCCC)CCCCCCCCCC,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,261_Pu,261.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCC,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,264_Np,264.0,CCCCCCN(CCCCCC)C(=O)C(CC)CCCC,Np,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,264_Pu,264.0,CCCCCCN(CCCCCC)C(=O)C(CC)CCCC,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-ox4,266_Pu,266.0,CCCCCCCCN(CCCCCCCC)C(=O)CN(C)CC(=O)N(CCCCCCCC)CCCCCCCC,Pu,4,spin excess > 0.5 (behaves as a reduced +3 complex),,,
+combination,xtb-complex-gxtb-actinyl,2_Np5,2.0,CN(C(=O)COCC(=O)N(C)c1ccccc1)c1ccccc1,Np,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,2_U6,2.0,CN(C(=O)COCC(=O)N(C)c1ccccc1)c1ccccc1,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,3_U6,3.0,CCCCN(CCCC)C(=O)COCC(=O)N(CC)CCN(CC)C(=O)COCC(=O)N(CCCC)CCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,4_U6,4.0,CCCCN(CCCC)C(=O)COCC(=O)N(CCN(C(=O)COCC(=O)N(CCCC)CCCC)C(C)C)C(C)C,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,12_Np5,12.0,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,Np,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,12_Pu6,12.0,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,Pu,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,12_U6,12.0,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,14_Np5,14.0,CCCCCCCCCCCCN(CCCCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCCCC)CCCCCCCCCCCC,Np,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,14_U6,14.0,CCCCCCCCCCCCN(CCCCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCCCC)CCCCCCCCCCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,15_Np5,15.0,CCCCCCN(CCCCCC)C(=O)COCC(=O)N(CCCCCC)CCCCCC,Np,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,15_U6,15.0,CCCCCCN(CCCCCC)C(=O)COCC(=O)N(CCCCCC)CCCCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,17_Np5,17.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)COCC(=O)N(CC(CC)CCCC)CC(CC)CCCC,Np,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,17_U6,17.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)COCC(=O)N(CC(CC)CCCC)CC(CC)CCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,32_Np5,32.0,CCCCCN(CCCCC)C(=O)COCC(=O)N(CCCCC)CCCCC,Np,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,32_U6,32.0,CCCCCN(CCCCC)C(=O)COCC(=O)N(CCCCC)CCCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,33_Pu6,33.0,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCc1c(CC)c(CCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c(CC)c(CCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1CC,Pu,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,33_U6,33.0,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCc1c(CC)c(CCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c(CC)c(CCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1CC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,34_Pu6,34.0,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCCOc1cc(OCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)cc(OCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1,Pu,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,34_U6,34.0,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCCOc1cc(OCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)cc(OCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,44_Np5,44.0,CCCCCCCCCCN(CCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCC)CCCCCCCCCC,Np,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,44_U6,44.0,CCCCCCCCCCN(CCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCC)CCCCCCCCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,79_U6,79.0,CCCCN(C)C(=O)CC(=O)N(C)CCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,82_Np5,82.0,CCCCCCCCP(=O)(CC(=O)N(CC(C)C)CC(C)C)c1ccccc1,Np,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,82_U6,82.0,CCCCCCCCP(=O)(CC(=O)N(CC(C)C)CC(C)C)c1ccccc1,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,173_Np6,173.0,CCCCCOP(=O)(CCCCC)OCCCCC,Np,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,173_Pu6,173.0,CCCCCOP(=O)(CCCCC)OCCCCC,Pu,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,173_U6,173.0,CCCCCOP(=O)(CCCCC)OCCCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,174_Np5,174.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,Np,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,174_Np6,174.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,Np,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,174_Pa5,174.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,Pa,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,174_Pu6,174.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,Pu,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,174_U6,174.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,183_U6,183.0,CCCCCCCC(=O)N(CCCCCC)CCCCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,184_U6,184.0,CCCCCCCCCCCCCCC(C(=O)N(C)CCCC)C(=O)N(C)CCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,239_U6,239.0,CCCCOP(=O)(OCCCC)OCCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,254_U6,254.0,O=C(COCC(=O)N(c1ccccc1)c1ccccc1)N(c1ccccc1)c1ccccc1,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,258_U6,258.0,CCCCC(CC)CN(CC(CC)CCCC)C(C)=O,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,259_U6,259.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)CC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,260_U6,260.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)(C)C,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,261_Np6,261.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCC,Np,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,261_Pu6,261.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCC,Pu,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,261_U6,261.0,CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,262_U6,262.0,CCCCN(CCCC)C(=O)CCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,263_U6,263.0,CCCCOP(=O)(CCCC)OCCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,264_Np6,264.0,CCCCCCN(CCCCCC)C(=O)C(CC)CCCC,Np,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,264_U6,264.0,CCCCCCN(CCCCCC)C(=O)C(CC)CCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,266_Np5,266.0,CCCCCCCCN(CCCCCCCC)C(=O)CN(C)CC(=O)N(CCCCCCCC)CCCCCCCC,Np,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,266_U6,266.0,CCCCCCCCN(CCCCCCCC)C(=O)CN(C)CC(=O)N(CCCCCCCC)CCCCCCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,279_U6,279.0,CCCCC(CC)COP(=O)(OCC(CC)CCCC)OCC(CC)CCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,280_Np5,280.0,CCCCN(CCCC)C(=O)COCC(=O)N(CCCC)CCCC,Np,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,280_U6,280.0,CCCCN(CCCC)C(=O)COCC(=O)N(CCCC)CCCC,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,281_Pu6,281.0,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCNC(=O)c1cc(C(=O)NCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)cc(C(=O)NCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1,Pu,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+combination,xtb-complex-gxtb-actinyl,281_U6,281.0,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCNC(=O)c1cc(C(=O)NCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)cc(C(=O)NCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1,U,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",,,
+rows,,,,CC1(C)CCC(C)(C)c2nc(-c3cccc(-c4cccc(-c5nnc6c(n5)C(C)(C)CCC6(C)C)n4)n3)nnc21,,3,CN rose (not a lost water); outside the inclusion rule,69.0,trainVal,1.0
+rows,,,,CC12CCC(c3nnc(-c4cccc(-c5nnc6c(n5)C5(C)CCC6C5(C)C)n4)nc31)C2(C)C,,3,CN rose (not a lost water); outside the inclusion rule,69.0,trainVal,1.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)(C)C,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,12.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",91.0,trainVal,23.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,79.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,,4,spin excess > 0.5 (behaves as a reduced +3 complex),93.0,trainVal,7.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,7.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,7.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,7.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",94.0,trainVal,7.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)CC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,14.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,30.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,5.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,28.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",94.0,trainVal,5.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)COCC(=O)N(CC(CC)CCCC)CC(CC)CCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,25.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)COCC(=O)N(CC(CC)CCCC)CC(CC)CCCC,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,21.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(=O)COCC(=O)N(CC(CC)CCCC)CC(CC)CCCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,2.0
+rows,,,,CCCCC(CC)CN(CC(CC)CCCC)C(C)=O,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,14.0
+rows,,,,CCCCC(CC)COP(=O)(OCC(CC)CCCC)OCC(CC)CCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,11.0
+rows,,,,CCCCCCCC(=O)N(CCCCCC)CCCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,76.0
+rows,,,,CCCCCCCC(=O)N(CCCCCC)CCCCCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,6.0
+rows,,,,CCCCCCCCCCCCCCC(C(=O)N(C)CCCC)C(=O)N(C)CCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,5.0
+rows,,,,CCCCCCCCCCCCCCC(C(=O)N(C)CCCC)C(=O)N(C)CCCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,5.0
+rows,,,,CCCCCCCCCCCCN(CCCCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCCCC)CCCCCCCCCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,24.0
+rows,,,,CCCCCCCCCCCCN(CCCCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCCCC)CCCCCCCCCCCC,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,21.0
+rows,,,,CCCCCCCCCCCCN(CCCCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCCCC)CCCCCCCCCCCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,1.0
+rows,,,,CCCCCCCCCCN(CCCCCCCCCC)C(=O)C(C)OC(C)C(=O)N(CCCCCCCCCC)CCCCCCCCCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,5.0
+rows,,,,CCCCCCCCCCN(CCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCC)CCCCCCCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,21.0
+rows,,,,CCCCCCCCCCN(CCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCC)CCCCCCCCCC,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,21.0
+rows,,,,CCCCCCCCCCN(CCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCC)CCCCCCCCCC,,3,a design donor left,95.0,trainVal,24.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)CN(C)CC(=O)N(CCCCCCCC)CCCCCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,7.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)CN(C)CC(=O)N(CCCCCCCC)CCCCCCCC,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,7.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)CN(C)CC(=O)N(CCCCCCCC)CCCCCCCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,17.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)CN(CC(=O)N(CCCCCCCC)CCCCCCCC)c1ccccc1,,3,CN rose (not a lost water); outside the inclusion rule,63.0,trainVal,2.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)CN(CC(=O)N(CCCCCCCC)CCCCCCCC)c1ccccc1,,3,CN rose (not a lost water); outside the inclusion rule,95.0,trainVal,2.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,31.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,19.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,5.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",94.0,trainVal,11.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCCCCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,,3,run failed (SCF / not converged / no output),95.0,trainVal,1.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCCOc1cc(OCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)cc(OCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,2.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCCOc1cc(OCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)cc(OCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",94.0,trainVal,1.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCNC(=O)c1cc(C(=O)NCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)cc(C(=O)NCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,test,2.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCNC(=O)c1cc(C(=O)NCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)cc(C(=O)NCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",94.0,test,1.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCc1c(CC)c(CCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c(CC)c(CCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1CC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,2.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCc1c(CC)c(CCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c(CC)c(CCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1CC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",94.0,trainVal,1.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=O)COCP(=O)(OCCCC)OCCCC,,3,a design donor left,95.0,trainVal,6.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=S)c1ccc(C(=S)N(CCCCCCCC)CCCCCCCC)s1,,3,CN rose and a design donor left,63.0,trainVal,4.0
+rows,,,,CCCCCCCCN(CCCCCCCC)C(=S)c1ccc(C(=S)N(CCCCCCCC)CCCCCCCC)s1,,3,CN rose and a design donor left,95.0,trainVal,4.0
+rows,,,,CCCCCCCCP(=O)(CC(=O)N(CC(C)C)CC(C)C)c1ccccc1,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,13.0
+rows,,,,CCCCCCCCP(=O)(CC(=O)N(CC(C)C)CC(C)C)c1ccccc1,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,9.0
+rows,,,,CCCCCCCCP(=O)(CC(=O)N(CC(C)C)CC(C)C)c1ccccc1,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,15.0
+rows,,,,CCCCCCCCP(=O)(CC(=O)N(CCCC)CCCC)c1ccccc1,,3,run failed (SCF / not converged / no output),57.0,trainVal,1.0
+rows,,,,CCCCCCN(CCCCCC)C(=O)C(CC)CCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,1.0
+rows,,,,CCCCCCN(CCCCCC)C(=O)C(CC)CCCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),93.0,trainVal,1.0
+rows,,,,CCCCCCN(CCCCCC)C(=O)C(CC)CCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,1.0
+rows,,,,CCCCCCN(CCCCCC)C(=O)C(CC)CCCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,1.0
+rows,,,,CCCCCCN(CCCCCC)C(=O)COCC(=O)N(CCCCCC)CCCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,18.0
+rows,,,,CCCCCCN(CCCCCC)C(=O)COCC(=O)N(CCCCCC)CCCCCC,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,16.0
+rows,,,,CCCCCCN(CCCCCC)C(=O)COCC(=O)N(CCCCCC)CCCCCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,1.0
+rows,,,,CCCCCCOP(=O)(O)OCCCCCC,,3,a design donor left,64.0,trainVal,1.0
+rows,,,,CCCCCCOP(=O)(OCCCCCC)C(=O)N(CC)CC,,3,run failed (SCF / not converged / no output),58.0,trainVal,4.0
+rows,,,,CCCCCN(CCCCC)C(=O)COCC(=O)N(CCCCC)CCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,20.0
+rows,,,,CCCCCN(CCCCC)C(=O)COCC(=O)N(CCCCC)CCCCC,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,17.0
+rows,,,,CCCCCOP(=O)(CCCCC)OCCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,6.0
+rows,,,,CCCCCOP(=O)(CCCCC)OCCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,8.0
+rows,,,,CCCCCOP(=O)(CCCCC)OCCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",94.0,trainVal,8.0
+rows,,,,CCCCN(C)C(=O)CC(=O)N(C)CCCC,,3,run failed (SCF / not converged / no output),60.0,trainVal,3.0
+rows,,,,CCCCN(C)C(=O)CC(=O)N(C)CCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,9.0
+rows,,,,CCCCN(CCCC)C(=O)CCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,1.0
+rows,,,,CCCCN(CCCC)C(=O)COCC(=O)N(CC)CCN(CC)C(=O)COCC(=O)N(CCCC)CCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,6.0
+rows,,,,CCCCN(CCCC)C(=O)COCC(=O)N(CCCC)CCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,test,18.0
+rows,,,,CCCCN(CCCC)C(=O)COCC(=O)N(CCCC)CCCC,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,test,17.0
+rows,,,,CCCCN(CCCC)C(=O)COCC(=O)N(CCN(C(=O)COCC(=O)N(CCCC)CCCC)C(C)C)C(C)C,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,6.0
+rows,,,,CCCCN(CCCC)C(=O)c1ccccc1C(=O)O,,3,a design donor left,68.0,trainVal,1.0
+rows,,,,CCCCNC(=O)C(CC)C(=O)Nc1ccccc1NC(=O)C(CC)C(=O)NCCCC,,3,run failed (SCF / not converged / no output),95.0,trainVal,1.0
+rows,,,,CCCCNC(=O)CC(=O)NCCCC,,3,no structure was ever built for this ligand,63.0,trainVal,1.0
+rows,,,,CCCCNC(=O)CC(=O)NCCCC,,3,no structure was ever built for this ligand,95.0,trainVal,1.0
+rows,,,,CCCCNC(=S)C(CC)C(=S)Nc1ccc(NC(=S)C(CC)C(=S)NCCCC)cc1,,3,CN rose and a design donor left,63.0,trainVal,1.0
+rows,,,,CCCCNC(=S)C(CC)C(=S)Nc1ccc(NC(=S)C(CC)C(=S)NCCCC)cc1,,3,CN rose and a design donor left,95.0,trainVal,1.0
+rows,,,,CCCCOP(=O)(CCCC)OCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,6.0
+rows,,,,CCCCOP(=O)(OCCCC)OCCCC,,3,run failed (SCF / not converged / no output),57.0,trainVal,4.0
+rows,,,,CCCCOP(=O)(OCCCC)OCCCC,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,76.0
+rows,,,,CCCCOP(=O)(OCCCC)OCCCC,,4,spin excess > 0.5 (behaves as a reduced +3 complex),94.0,trainVal,35.0
+rows,,,,CCCCOP(=S)(COCP(=S)(OCCCC)OCCCC)OCCCC,,3,CN rose (not a lost water); outside the inclusion rule,95.0,test,6.0
+rows,,,,CCCCOP(=S)(CP(=S)(OCCCC)OCCCC)OCCCC,,3,a design donor left,63.0,trainVal,6.0
+rows,,,,CCCc1nnc(-c2cccc(-c3nnc(CCC)c(CCC)n3)n2)nc1CCC,,3,CN rose (not a lost water); outside the inclusion rule,69.0,trainVal,1.0
+rows,,,,CCN(C(=O)c1cccc(-c2cccc(C(=O)N(CC)c3cc(C)ccc3C)n2)n1)c1cc(C)ccc1C,,3,run failed (SCF / not converged / no output),60.0,test,1.0
+rows,,,,CCN(C(=O)c1cccc(C(=O)N(CC)c2ccc(C)cc2)n1)c1ccc(C)cc1,,3,run failed (SCF / not converged / no output),58.0,trainVal,1.0
+rows,,,,CCN(CC)C(=O)COCC(=O)N(CC)CC,,3,run failed (SCF / not converged / no output),62.0,trainVal,6.0
+rows,,,,CCN(CC)C(=O)COc1c2cc(C(C)(C)C)cc1Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)Cc1cc(C(C)(C)C)cc(c1OCC(=O)N(CC)CC)C2,,3,a design donor left,63.0,trainVal,1.0
+rows,,,,CN(C(=O)COCC(=O)N(C)c1ccccc1)c1ccccc1,,3,run failed (SCF / not converged / no output),57.0,trainVal,6.0
+rows,,,,CN(C(=O)COCC(=O)N(C)c1ccccc1)c1ccccc1,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,10.0
+rows,,,,CN(C(=O)COCC(=O)N(C)c1ccccc1)c1ccccc1,,5,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",93.0,trainVal,10.0
+rows,,,,O=C(COCC(=O)N(c1ccccc1)c1ccccc1)N(c1ccccc1)c1ccccc1,,6,"oxidation state 5/6 dropped (bent O=M=O, short M=O; see that folder's README)",92.0,trainVal,2.0
+rows,,,,O=C(COCC(=O)N(c1ccccc1)c1ccccc1)N(c1ccccc1)c1ccccc1,,3,a design donor left,95.0,trainVal,3.0
+rows,,,,O=C(O)CN(CCO)CCN(CC(=O)O)CC(=O)O,,3,run failed (SCF / not converged / no output),60.0,trainVal,1.0

@@ -1,0 +1,21 @@
+{
+ "featureset": "fs2_2D_rdkit_cond_denticity",
+ "blocks": "rdkit+cond+metal+2D+dent",
+ "n_features": 1861,
+ "cv_val_acc_mean": 0.6646,
+ "cv_val_acc_std": 0.0261,
+ "cv_train_acc_mean": 0.9527,
+ "test_acc": 0.7283,
+ "test_balanced_acc": 0.7426,
+ "test_f1_macro": 0.7185,
+ "test_f1_class0": 0.7769,
+ "test_f1_class1": 0.5818,
+ "test_f1_class2": 0.7968,
+ "importance_2D": 0.6751000285148621,
+ "importance_cond": 0.022700000554323196,
+ "importance_dent": 0.000699999975040555,
+ "importance_metal": 0.008899999782443047,
+ "importance_rdkit": 0.29269999265670776,
+ "best_params": "{\"n_estimators\": 200, \"min_child_weight\": 1, \"max_depth\": 6, \"learning_rate\": 0.2, \"lambda\": 5, \"colsample_bytree\": 0.4, \"alpha\": 0.5}",
+ "runtime_min": 8.6
+}

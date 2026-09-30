@@ -1,0 +1,8 @@
+13:32:06  fs4_PI_rdkit_cond: 1018 features | trainVal (6604, 1018) | test (449, 1018)
+13:32:06  class distribution (trainVal): {0: 1633, 1: 1397, 2: 3574}
+13:32:06  fold 0: train rows 5658, val rows 946, val ligands 41
+13:32:06  fold 1: train rows 5769, val rows 835, val ligands 41
+13:32:06  fold 2: train rows 6037, val rows 567, val ligands 41
+13:53:48  best params: {'n_estimators': 300, 'min_child_weight': 3, 'max_depth': 15, 'learning_rate': 0.3, 'lambda': 5, 'colsample_bytree': 0.8, 'alpha': 0.5}
+13:53:48  best CV val accuracy: 0.6365
+13:53:48  test acc 0.6548 | balanced 0.6742 | F1 macro 0.6251 | 21.7 min

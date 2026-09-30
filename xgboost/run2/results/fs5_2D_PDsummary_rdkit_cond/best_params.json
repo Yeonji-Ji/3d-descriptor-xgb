@@ -1,0 +1,9 @@
+{
+ "n_estimators": 500,
+ "min_child_weight": 1,
+ "max_depth": 9,
+ "learning_rate": 0.2,
+ "lambda": 10,
+ "colsample_bytree": 0.8,
+ "alpha": 0.01
+}

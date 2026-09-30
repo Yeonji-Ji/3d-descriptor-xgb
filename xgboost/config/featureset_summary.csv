@@ -1,0 +1,7 @@
+file,blocks,n_features,n_rows,size_MB
+fs1_2D_rdkit_cond.csv,rdkit+cond+metal+2D,1860,7053,35.5
+fs2_2D_rdkit_cond_denticity.csv,rdkit+cond+metal+2D+dent,1861,7053,35.5
+fs3_PDsummary_rdkit_cond.csv,rdkit+cond+metal+PDsummary,258,7053,16.3
+fs4_PI_rdkit_cond.csv,rdkit+cond+metal+PI,1018,7053,39.1
+fs5_2D_PDsummary_rdkit_cond.csv,rdkit+cond+metal+2D+PDsummary,1929,7053,38.8
+fs6_2D_PI_rdkit_cond.csv,rdkit+cond+metal+2D+PI,2689,7053,61.6

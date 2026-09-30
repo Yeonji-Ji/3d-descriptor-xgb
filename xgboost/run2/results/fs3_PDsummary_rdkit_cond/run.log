@@ -1,0 +1,8 @@
+18:47:53  fs3_PDsummary_rdkit_cond: 258 features | trainVal (6604, 258) | test (449, 258)
+18:47:53  class distribution (trainVal): {0: 1633, 1: 1397, 2: 3574}
+18:47:53  fold 0: train rows 5658, val rows 946, val ligands 41
+18:47:54  fold 1: train rows 5769, val rows 835, val ligands 41
+18:47:54  fold 2: train rows 6037, val rows 567, val ligands 41
+18:51:31  best params: {'n_estimators': 300, 'min_child_weight': 5, 'max_depth': 6, 'learning_rate': 0.3, 'lambda': 20, 'colsample_bytree': 0.4, 'alpha': 0.5}
+18:51:31  best CV val accuracy: 0.6459
+18:51:31  test acc 0.6837 | balanced 0.7034 | F1 macro 0.6856 | 3.6 min

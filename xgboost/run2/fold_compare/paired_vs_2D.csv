@@ -1,0 +1,11 @@
+featureset,metric,n_folds,mean_diff,ci95_low,ci95_high,better,worse,tied,t_test_p,wilcoxon_p
+fs2_2D_rdkit_cond_denticity,accuracy,3,0.0044,-0.0283,0.0371,2,1,0,0.6209,0.5
+fs3_PDsummary_rdkit_cond,accuracy,3,-0.0143,-0.064,0.0353,1,2,0,0.3405,0.5
+fs4_PI_rdkit_cond,accuracy,3,-0.0103,-0.063,0.0424,1,2,0,0.4878,0.5
+fs5_2D_PDsummary_rdkit_cond,accuracy,3,-0.0181,-0.1103,0.0741,1,2,0,0.4878,0.5
+fs6_2D_PI_rdkit_cond,accuracy,3,-0.0156,-0.1016,0.0704,1,2,0,0.517,0.75
+fs2_2D_rdkit_cond_denticity,f1_macro,3,-0.0046,-0.047,0.0378,2,1,0,0.6844,1.0
+fs3_PDsummary_rdkit_cond,f1_macro,3,-0.0437,-0.099,0.0116,0,3,0,0.0766,0.25
+fs4_PI_rdkit_cond,f1_macro,3,-0.0282,-0.096,0.0395,1,2,0,0.2148,0.5
+fs5_2D_PDsummary_rdkit_cond,f1_macro,3,-0.0311,-0.1418,0.0796,1,2,0,0.3502,0.5
+fs6_2D_PI_rdkit_cond,f1_macro,3,-0.0318,-0.1321,0.0685,1,2,0,0.3056,0.5

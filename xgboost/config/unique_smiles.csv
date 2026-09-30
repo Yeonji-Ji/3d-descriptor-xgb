@@ -1,0 +1,283 @@
+SMILES,SMILES_class,split,n_rows,n_structures,n_metals
+CCCCCCCCN(CCCCCCCC)C(=O)[C@H](C)O[C@H](C)C(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCCCN(CCCCCCCC)C(=O)[C@H](C)O[C@@H](C)C(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CN(C(=O)COCC(=O)N(C)c1ccccc1)c1ccccc1,"Ether, Amide",trainVal,101,15,15
+CCCCN(CCCC)C(=O)COCC(=O)N(CC)CCN(CC)C(=O)COCC(=O)N(CCCC)CCCC,"Ether, Amide, Diglycolamide",trainVal,77,2,2
+CCCCN(CCCC)C(=O)COCC(=O)N(CCN(C(=O)COCC(=O)N(CCCC)CCCC)C(C)C)C(C)C,"Ether, Amide, Diglycolamide",trainVal,18,2,2
+CCCCCCCCN(C)C(=O)COCC(=O)N(C)CCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,303,15,15
+CCCCCCN(CCCCCC)C(=O)COCC(=O)N1CCCC1,"Ether, Amide, Diglycolamide",trainVal,15,1,1
+CCCCCCN(CCCCCC)C(=O)COCC(=O)N1CCCCC1,"Ether, Amide, Diglycolamide",trainVal,9,1,1
+CCCCCCN(CCCCCC)C(=O)COCC(=O)N1CCOCC1,"Ether, Amide, Diglycolamide",trainVal,9,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N1CCCC1,"Ether, Amide, Diglycolamide",trainVal,17,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N1CCCCC1,"Ether, Amide, Diglycolamide",trainVal,13,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N1CCOCC1,"Ether, Amide, Diglycolamide",trainVal,13,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,1193,18,18
+CCCCCCC(C)N(CCCC)C(=O)COCC(=O)N(CCCC)C(C)CCCCCC,"Ether, Amide, Diglycolamide",trainVal,134,6,6
+CCCCCCCCCCCCN(CCCCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCCCC)CCCCCCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,316,17,17
+CCCCCCN(CCCCCC)C(=O)COCC(=O)N(CCCCCC)CCCCCC,"Ether, Amide, Diglycolamide",trainVal,53,10,10
+CC(C)CN(CC(C)C)C(=O)COCC(=O)N(CC(C)C)CC(C)C,"Ether, Amide, Diglycolamide",trainVal,60,11,11
+CCCCC(CC)CN(CC(CC)CCCC)C(=O)COCC(=O)N(CC(CC)CCCC)CC(CC)CCCC,"Ether, Amide, Diglycolamide",trainVal,105,16,16
+CCCCCCCCN(CC(C)C)C(=O)COCC(=O)N(CCCCCCCC)CC(C)C,"Ether, Amide, Diglycolamide",trainVal,8,8,8
+CCCCCCCCN(CC(CC)CCCC)C(=O)COCC(=O)N(CCCCCCCC)CC(CC)CCCC,"Ether, Amide, Diglycolamide",trainVal,8,8,8
+CCCCC(CC)CN(C)C(=O)COCC(=O)N(C)CC(CC)CCCC,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCC(CCCC)CCCN(C)C(=O)COCC(=O)N(C)CCCC(CCCC)CCCCCC,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CC(C)CCCC(C)CCCCN(C)C(=O)COCC(=O)N(C)CCCCC(C)CCCC(C)C,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCCCN(CC)C(=O)COCC(=O)N(CC)CCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCCCN(CCC)C(=O)COCC(=O)N(CCC)CCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(C)C,"Ether, Amide, Diglycolamide",trainVal,7,7,7
+CCCCCCCCN(C)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCCCC(C)(C)SCC1CN(C(=O)COCC(=O)N2CC(C)C(CSC(C)(C)CCCCCCCC)C2)CC1C,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,13,13,13
+CCCCCCCCN(CCC(C)CC(C)(C)C)C(=O)COCC(=O)N(CCCCCCCC)CCC(C)CC(C)(C)C,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCCCN(CCCC(CCCC)CCCCCC)C(=O)COCC(=O)N(CCCCCCCC)CCCC(CCCC)CCCCCC,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCCCN(CCCCC(C)CCCC(C)C)C(=O)COCC(=O)N(CCCCCCCC)CCCCC(C)CCCC(C)C,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCN(CCCCC)C(=O)COCC(=O)N(CCCCC)CCCCC,"Ether, Amide, Diglycolamide",trainVal,105,5,5
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCc1c(CC)c(CCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c(CC)c(CCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1CC,"Ether, Amide",trainVal,68,3,3
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCCOc1cc(OCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)cc(OCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1,"Ether, Amide",trainVal,68,3,3
+O=C(COCC(=O)N1CCCCC1)N1CCCCC1,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+COCCN(CCOC)C(=O)COCC(=O)N(CCOC)CCOC,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCCCCCN(CCCCCCCCCC)C(=O)COCC(=O)N(CCCCCC)CCCCCC,"Ether, Amide, Diglycolamide",trainVal,216,15,15
+CCCCCCCCN(CCCCCCCC)C(=O)CN(CC(=O)N(CCCCCCCC)CCCCCCCC)CC(=O)N(CCCCCCCC)CCCCCCCC,Amide,trainVal,46,16,16
+CCCN(CCC)C(=O)COCC(=O)N(CCC)CCC,"Ether, Amide, Diglycolamide",trainVal,77,16,16
+CCN(CC)C(=O)COCC(=O)N(CC)CC,"Ether, Amide, Diglycolamide",trainVal,78,13,13
+CCCCCCCCCCCCN(C)C(=O)C1CC(OC)CC(C(=O)N(C)CCCCCCCCCCCC)O1,"Ether, Amide, Diglycolamide",trainVal,41,2,2
+CCCCCCCCCCCCNC(=O)c1cc(=O)cc(C(=O)NCCCCCCCCCCCC)o1,Amide,trainVal,6,2,2
+CC(C)(C)c1ccc(NC(=O)c2cc(=O)cc(C(=O)Nc3ccc(C(C)(C)C)cc3)o2)cc1,Amide,trainVal,6,2,2
+CCCCCCCCCCN(CCCCCCCCCC)C(=O)COCC(=O)N(CCCCCCCCCC)CCCCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,27,2,2
+CN(C(=O)c1cccc(C(=O)N(C)c2ccccc2)n1)c1ccccc1,"Amide, Pyridine",trainVal,140,14,14
+CCCCCCCCN(CCCCCCCC)C(=O)COCCOCC(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide",trainVal,70,14,14
+CCCCCCCCCCCCN(CCCCCCCCCCCC)C(=O)COCCOCC(=O)N(CCCCCCCCCCCC)CCCCCCCCCCCC,"Ether, Amide",trainVal,208,16,16
+CCCCCCCCCCCCN(CCCC)C(=O)COCC(=O)N(CCCC)CCCCCCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,22,1,1
+CCCCCCCCCCCCN(C)C(=O)COCC(=O)N(C)CCCCCCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,22,1,1
+CCCCCCCCCCCCN(CC)C(=O)COCC(=O)N(CC)CCCCCCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,26,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)c1ccc2ccc3ccc(C(=O)N(CCCCCCCC)CCCCCCCC)nc3c2n1,"Amide, Pyridine",trainVal,47,15,15
+CCCCCCN1C(=O)c2nc3c(ccc4cc5c(nc43)C(=O)N(CCCCCC)[C@@H]3[C@@H]4CCC(C4)[C@H]53)cc2[C@H]2[C@H]3CC[C@H](C3)[C@H]21,"Amide, Pyridine",trainVal,28,14,14
+CCCCCCn1c(-c2ccccc2)c(-c2ccccc2)c2cc3ccc4cc5c(-c6ccccc6)c(-c6ccccc6)n(CCCCCC)c(=O)c5nc4c3nc2c1=O,Pyridine,trainVal,28,14,14
+CCCCCCCCN(CCCCCCCC)C(=O)C(C)OC(C)C(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,34,15,15
+CN(C(=O)CC(=O)N(C)c1ccccc1)c1ccccc1,Amide,trainVal,14,14,14
+CCCCCCCCN(C)C(=O)C(CCOCCCCCC)C(=O)N(C)CCCCCCCC,"Ether, Amide",trainVal,14,14,14
+CCCCCCOP(=O)(O)OCCCCCC,Rare groups,trainVal,9,9,9
+CC12CCC(c3nnc(-c4cccc(-c5nnc6c(n5)C5(C)CCC6C5(C)C)n4)nc31)C2(C)C,Pyridine,trainVal,29,14,14
+CCN(C(=O)c1cccc(-c2cccc(C(=O)N(CC)c3ccccc3)n2)n1)c1ccccc1,"Amide, Pyridine",trainVal,14,14,14
+CCN(C(=O)c1cccc(-c2cccc(C(=O)N(CC)c3ccc(C)cc3C)n2)n1)c1ccc(C)cc1C,"Amide, Pyridine",trainVal,14,14,14
+CCN(C(=O)c1cccc(-c2cccc(C(=O)N(CC)c3cc(C)cc(C)c3)n2)n1)c1cc(C)cc(C)c1,"Amide, Pyridine",trainVal,14,14,14
+CCCCCCCCN(CCCCCCCC)C(=O)c1ccc2ccc3cccnc3c2n1,"Amide, Pyridine",trainVal,14,14,14
+CCCCCCCCN(C(=O)c1ccc2ccc3cccnc3c2n1)c1cc(C)cc(C)c1,"Amide, Pyridine",trainVal,14,14,14
+CCCCCCCCN(C(=O)c1ccc2ccc3ccc(C(=O)N(CCCCCCCC)c4cc(C)cc(C)c4)nc3c2n1)c1cc(C)cc(C)c1,"Amide, Pyridine",trainVal,14,14,14
+CCCCCCCCN(C(=O)c1ccc2ccc3ccc(C(=O)N(CCCCCCCC)c4ccc(C)cc4)nc3c2n1)c1ccc(C)cc1,"Amide, Pyridine",trainVal,14,14,14
+CCCCCCCCN(C(=O)c1ccc2ccc3cccnc3c2n1)c1ccc(C)cc1,"Amide, Pyridine",trainVal,14,14,14
+CCCc1nnc(-c2cccc(-c3nnc(CCC)c(CCC)n3)n2)nc1CCC,Pyridine,trainVal,75,18,18
+CCCCCc1nnc(-c2cccc(-c3cccc(-c4nnc(CCCCC)c(CCCCC)n4)n3)n2)nc1CCCCC,Pyridine,trainVal,315,14,14
+CCCCN(CCCC)C(=O)C(Cc1ccccc1CC(C(=O)N(CCCC)CCCC)C(=O)N(CCCC)CCCC)C(=O)N(CCCC)CCCC,Amide,trainVal,4,4,4
+CCCCCCCCP(=O)(CCCCCCCC)Cc1cccc(CP(=O)(CCCCCCCC)CCCCCCCC)[n+]1[O-],Rare groups,trainVal,28,14,14
+CCCCN(CCCC)C(=O)CCC(=O)N(CCCC)CCCC,Amide,trainVal,5,5,5
+CCCCN(CCCC)C(=O)c1ccc2ccc3ccc(C(=O)N(CCCC)CCCC)nc3c2n1,"Amide, Pyridine",trainVal,14,14,14
+O=C(O)CN(CCO)CCN(CC(=O)O)CC(=O)O,Rare groups,trainVal,7,7,7
+O=C(O)CN(CC(=O)O)C1CCCCC1N(CC(=O)O)CC(=O)O,Rare groups,trainVal,8,8,8
+CCN(C(=O)c1cccc(C(=O)N(CC)c2ccc(C)cc2)n1)c1ccc(C)cc1,"Amide, Pyridine",trainVal,32,15,15
+CCN(C(=O)c1cccc(C(=O)N(CC)c2ccccc2C)n1)c1ccccc1C,"Amide, Pyridine",trainVal,32,16,16
+CCN(C(=O)c1cccc(C(=O)N(CC)c2cccc(C)c2)n1)c1cccc(C)c1,"Amide, Pyridine",trainVal,31,16,16
+CCCCCCc1ccc(N(CC)C(=O)c2cccc(-c3cccc(C(=O)N(CC)c4ccc(CCCCCC)cc4)n3)n2)cc1,"Amide, Pyridine",trainVal,14,14,14
+CCCCN(C)C(=O)CC(=O)N(C)CCCC,Amide,trainVal,6,2,2
+CCCCCCOCCC(C(=O)N(C)CCCC)C(=O)N(C)CCCC,"Ether, Amide",trainVal,6,3,3
+O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,Rare groups,trainVal,3,3,3
+CCCCCCCCP(=O)(CC(=O)N(CC(C)C)CC(C)C)c1ccccc1,"Amide, Phosphine Oxides",trainVal,105,17,17
+CCCCCCN(CCCCCC)C(=O)CC(=O)N(CCCCCC)CCCCCC,Amide,trainVal,9,9,9
+CCCCCCCCN(C)C(=O)CC(=O)N(C)CCCCCCCC,Amide,trainVal,13,10,10
+CCCCCCCCN(CCCCCCCC)C(=O)CC(=O)N(CCCCCCCC)CCCCCCCC,Amide,trainVal,9,9,9
+CCCCN(CCCC)C(=O)CC(=O)N(CCCC)CCCC,Amide,trainVal,9,9,9
+CCCCCCCCN(C)C(=O)C(CCCCCC)C(=O)N(C)CCCCCCCC,Amide,trainVal,9,9,9
+O=C(c1ccc2ccc3ccc(C(=O)N4CCCC4)nc3c2n1)N1CCCC1,"Amide, Pyridine",trainVal,1,1,1
+O=C(c1cccc(C(=O)N2CCCC2)n1)N1CCCC1,"Amide, Pyridine",trainVal,1,1,1
+O=C(c1cccc(-c2cccc(C(=O)N3CCCC3)n2)n1)N1CCCC1,"Amide, Pyridine",trainVal,1,1,1
+O=P(c1ccccc1)(c1ccccc1)c1ccc2ccc3ccc(P(=O)(c4ccccc4)c4ccccc4)nc3c2n1,"Phosphine Oxides, Pyridine",trainVal,3,1,1
+CCCCOP(=O)(OCCCC)c1ccc2ccc3ccc(P(=O)(OCCCC)OCCCC)nc3c2n1,"Phosphine Oxides, Pyridine",trainVal,24,3,3
+CCCCc1cc(-c2ccc3ccc4ccc(-c5cc(CCCC)[nH]n5)nc4c3n2)n[nH]1,Pyridine,trainVal,1,1,1
+CC(C)Cc1cc(-c2ccc3ccc4ccc(-c5cc(CC(C)C)[nH]n5)nc4c3n2)n[nH]1,Pyridine,trainVal,1,1,1
+CCCCCCCCc1cc(-c2ccc3ccc4ccc(-c5cc(CCCCCCCC)[nH]n5)nc4c3n2)n[nH]1,Pyridine,trainVal,1,1,1
+O=C(c1cc(Cl)c2ccc3c(Cl)cc(C(=O)N4CCCC4)nc3c2n1)N1CCCC1,"Amide, Pyridine",trainVal,28,14,14
+O=C(c1cc(Cl)c2ccc3c(Cl)cc(C(=O)N4CCCCC4)nc3c2n1)N1CCCCC1,"Amide, Pyridine",trainVal,14,14,14
+O=C(c1cc(Cl)c2ccc3c(Cl)cc(C(=O)N4CCc5ccccc54)nc3c2n1)N1CCc2ccccc21,"Amide, Pyridine",trainVal,1,1,1
+O=C(c1cc(Cl)c2ccc3c(Cl)cc(C(=O)n4c5ccccc5c5ccccc54)nc3c2n1)n1c2ccccc2c2ccccc21,Pyridine,trainVal,1,1,1
+O=C(c1cc(Cl)c2ccc3c(Cl)cc(C(=O)N4CCCc5ccccc54)nc3c2n1)N1CCCc2ccccc21,"Amide, Pyridine",trainVal,1,1,1
+CC1(C)CCC(C)(C)c2nc(-c3cccc(-c4cccc(-c5nnc6c(n5)C(C)(C)CCC6(C)C)n4)n3)nnc21,Pyridine,trainVal,33,14,14
+CCN(C(=O)c1ccc2ccc3cccnc3c2n1)c1ccc(C)cc1,"Amide, Pyridine",trainVal,1,1,1
+CCOP(=O)(OCC)c1ccc2ccc3ccc(P(=O)(OCC)OCC)nc3c2n1,"Phosphine Oxides, Pyridine",trainVal,3,1,1
+CCCCN(CCCC)C(=O)c1ccccc1C(=O)O,Rare groups,trainVal,2,2,2
+c1cc2nc(c1)COc1ccccc1OCCOCCOc1ccccc1OC2,"Ether, Pyridine",trainVal,5,5,5
+C1CCC2OCCOCCOC3CCCCC3OCCOCCOC2C1,Ether,trainVal,5,5,5
+C1COCCOCCOCCOCCOCCO1,Ether,trainVal,5,5,5
+c1ccc2c(c1)OCCOCCOc1ccccc1OCCOCCO2,Ether,trainVal,5,5,5
+CCCCP(=O)(c1ccccc1)c1ccc2ccc3ccc(P(=O)(CCCC)c4ccccc4)nc3c2n1,"Phosphine Oxides, Pyridine",trainVal,5,1,1
+CCCCP(=O)(c1ccccc1)c1ccc2ccc3cccnc3c2n1,"Phosphine Oxides, Pyridine",trainVal,5,1,1
+CCN(C(=O)c1ccc2ccc3ccc(C(=O)N(CC)c4ccc(C)cc4)nc3c2n1)c1ccc(C)cc1,"Amide, Pyridine",trainVal,3,3,3
+CCCCCCN(CCC(C)CCC=C(C)C)C(=O)COCC(=O)N(CCCCCC)CCC(C)CCC=C(C)C,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCCCCCCCN(CCCCCCCCCCCC)C(=O)COC1CCCN(CCCCCC)C1=O,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCN(CCC(C)CCCC(C)C)C(=O)COCC(=O)N(CCCCCC)CCC(C)CCCC(C)C,"Ether, Amide, Diglycolamide",trainVal,14,14,14
+CCCCCCCCN(CCCCCCCC)C(=O)CCOCCC(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide",trainVal,4,2,2
+CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCOCCC(=O)N(CC(CC)CCCC)CC(CC)CCCC,"Ether, Amide",trainVal,4,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)CNCC(=O)N(CCCCCCCC)CCCCCCCC,Amide,trainVal,4,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)CN(CC(=O)N(CCCCCCCC)CCCCCCCC)Cc1ccccc1,Amide,trainVal,4,2,2
+CCCCCCCCN(CC(=O)N(CCCCCCCC)CCCCCCCC)CC(=O)N(CCCCCCCC)CCCCCCCC,Amide,trainVal,4,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)CN(CC(=O)N(CCCCCCCC)CCCCCCCC)C(C)=O,Amide,trainVal,4,2,2
+c1cc(-n2cccn2)nc(-n2cccn2)c1,Pyridine,trainVal,4,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)C(C)OC(C(=O)N(CCCCCCCC)CCCCCCCC)c1ccccc1,"Ether, Amide, Diglycolamide",trainVal,12,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)c1ccc(C(=O)N(CCCCCCCC)CCCCCCCC)o1,Amide,trainVal,4,2,2
+Cc1cc(C)n(-c2cccc(-n3nc(C)cc3C)n2)n1,Pyridine,trainVal,12,2,2
+CC1(C)CCC(C)(C)c2nc(-c3cccc(-c4cccc(-c5ccccn5)n4)n3)nnc21,Pyridine,trainVal,4,2,2
+CC(C)(C)c1ccc(NC(=O)c2cnccn2)cc1,Amide,trainVal,2,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)c1ccc2ccccc2n1,"Amide, Pyridine",trainVal,2,2,2
+O=C(c1ccccc1)c1ccc2ccccc2n1,Rare groups,trainVal,12,2,2
+CCCCCCCCOc1cc(C(=O)Nc2ccc(C(C)(C)C)cc2)nc(C(=O)Nc2ccc(C(C)(C)C)cc2)c1,"Ether, Amide, Pyridine",trainVal,2,2,2
+CCCCCCCCOc1cc(C(=O)N(C)c2ccc(C(C)(C)C)cc2)nc(C(=O)N(C)c2ccc(C(C)(C)C)cc2)c1,"Ether, Amide, Pyridine",trainVal,6,2,2
+CCCCCCCCCCCCNCC(=O)c1cccc(C(=O)CNCCCCCCCCCCCC)n1,Rare groups,trainVal,2,2,2
+CCCCCCCCCCCCNC(=O)c1cc(OC)ccn1,"Ether, Amide, Pyridine",trainVal,4,2,2
+CCCCCCCCNC(=O)c1cc(Cl)ccn1,"Amide, Pyridine",trainVal,2,2,2
+CCCCCCCCNC(=O)c1cc(OC)ccn1,"Ether, Amide, Pyridine",trainVal,4,2,2
+Cc1ccn(-c2cccc(-n3ccc(C)n3)n2)n1,Pyridine,trainVal,14,2,2
+CC(C)(C)c1ccc(NCC(=O)c2cccc(C(=O)CNc3ccc(C(C)(C)C)cc3)n2)cc1,Rare groups,trainVal,2,2,2
+CC1(C)CCC(C)(C)c2nc(-c3ccc4ccc5ccc(-c6nnc7c(n6)C(C)(C)CCC7(C)C)nc5c4n3)nnc21,Pyridine,trainVal,12,2,2
+CC1(C)OC(C)(C)c2nc(-c3cccc(-c4cccc(-c5nnc6c(n5)C(C)(C)OC6(C)C)n4)n3)nnc21,"Ether, Pyridine",trainVal,10,2,2
+CC1(C)SC(C)(C)c2nc(-c3cccc(-c4cccc(-c5nnc6c(n5)C(C)(C)SC6(C)C)n4)n3)nnc21,Pyridine,trainVal,22,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)c1ccc(C(=O)N(CCCCCCCC)CCCCCCCC)s1,Amide,trainVal,8,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)COC(C)C(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,12,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)COC(C(=O)N(CCCCCCCC)CCCCCCCC)c1ccccc1,"Ether, Amide, Diglycolamide",trainVal,12,2,2
+CCCCCCCCCCCCOCc1cc(-n2cccn2)nc(-n2cccn2)c1,"Ether, Pyridine",trainVal,12,2,2
+CCCCCCCCCCCCOCc1cc(-n2ccc(C)n2)nc(-n2ccc(C)n2)c1,"Ether, Pyridine",trainVal,4,2,2
+CCCCCCCCn1cc(-c2cc(CC(=O)O)cc(-c3cn(CCCCCCCC)nn3)n2)nn1,Rare groups,trainVal,10,2,2
+CCCCP(=S)(CCCC)CP(=S)(CCCC)CCCC,Other,trainVal,12,2,2
+CCCCOP(=S)(CP(=S)(OCCCC)OCCCC)OCCCC,Other,trainVal,6,1,1
+CCCCP(=S)(CCCC)COCP(=S)(CCCC)CCCC,Ether,trainVal,12,2,2
+CCOP(=S)(COCP(=S)(OCC)OCC)OCC,Ether,trainVal,12,2,2
+CCCCCCCCN(CCCCCCCC)C(=S)c1ccc2ccc3ccc(C(=S)N(CCCCCCCC)CCCCCCCC)nc3c2n1,Pyridine,trainVal,24,2,2
+Cc1ccn(-c2cncc(-n3ccc(C)n3)n2)n1,Other,trainVal,2,2,2
+Cc1cc(-c2cc(C)cc(-c3nnc4c(n3)C(C)(C)CCC4(C)C)n2)nc(-c2nnc3c(n2)C(C)(C)CCC3(C)C)c1,Pyridine,trainVal,32,2,2
+S=P(COCP(=S)(c1ccccc1)c1ccccc1)(c1ccccc1)c1ccccc1,Ether,trainVal,12,2,2
+Cc1cc(C)n(-c2cncc(-n3nc(C)cc3C)n2)n1,Other,trainVal,12,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)COCP(=O)(OCCCC)OCCCC,Rare groups,trainVal,6,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)CNCP(=O)(OCCCC)OCCCC,"Amide, Phosphine Oxides",trainVal,12,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)CNCP(=O)(CCCC)CCCC,"Amide, Phosphine Oxides, Organophosphine Oxides",trainVal,12,2,2
+CC(C)(C)c1cc(-c2cc(C(C)(C)C)cc(-c3nnc4c(n3)C(C)(C)CCC4(C)C)n2)nc(-c2nnc3c(n2)C(C)(C)CCC3(C)C)c1,Pyridine,trainVal,47,2,2
+CC1(C)CCC(C)(C)c2nc(-c3cccc(-c4cccc(-c5cccc(-c6nnc7c(n6)C(C)(C)CCC7(C)C)n5)n4)n3)nnc21,Pyridine,trainVal,12,2,2
+S=P(S)(c1ccccc1Cl)c1ccccc1Cl,Other,trainVal,2,2,2
+CC(C)CCCCCP(=O)(CC(=O)N(CC(C)C)CC(C)C)c1ccccc1,"Amide, Phosphine Oxides",trainVal,7,7,7
+CCCCC(CC)CN(CC(=O)N(CC(CC)CCCC)CC(CC)CCCC)CC(=O)N(CC(CC)CCCC)CC(CC)CCCC,Amide,trainVal,40,3,3
+CCN(CC)C(=O)c1ccc2ccc3cccnc3c2n1,"Amide, Pyridine",trainVal,36,2,2
+CCCCN(CCCC)C(=O)c1ccc2ccc3cccnc3c2n1,"Amide, Pyridine",trainVal,12,2,2
+CC(C)(C)Cc1cc(-c2cccc(-c3cc(CC(C)(C)C)[nH]n3)n2)n[nH]1,Pyridine,trainVal,14,2,2
+CCCCCCN(CCCCCC)C(=O)c1ccc2ccc3cccnc3c2n1,"Amide, Pyridine",trainVal,12,2,2
+CCN(CC)C(=O)COc1c2cc(OC)cc1Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)C2,"Ether, Amide",trainVal,1,1,1
+CCCCCCCCOc1cc2c(OCC(=O)N(CC)CC)c(c1)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)C2,"Ether, Amide",trainVal,1,1,1
+CC(C)CN(CC(C)C)C(=O)CP(=O)(C1CCCCC1)C1CCCCC1,"Amide, Phosphine Oxides, Organophosphine Oxides",trainVal,12,7,7
+CCC(CC)CP(=O)(CC(=O)N(CC)CC)CC(CC)CC,"Amide, Phosphine Oxides, Organophosphine Oxides",trainVal,15,7,7
+CCCCCOP(=O)(CCCCC)OCCCCC,Phosphine Oxides,trainVal,60,4,4
+CCCCC(CC)CN(CC(CC)CCCC)C(=O)C(C)C,Amide,trainVal,38,3,3
+CCCCCCP(=O)(CCCCCC)CC(=O)CC(C)C,Rare groups,trainVal,12,7,7
+CCCCCCP(=O)(CCCCCC)CC(=O)N(CC(C)C)CC(C)C,"Amide, Phosphine Oxides, Organophosphine Oxides",trainVal,20,7,7
+CCCCCCP(=O)(CCCCCC)CC(=O)N(C(C)CC)C(C)CC,"Amide, Phosphine Oxides, Organophosphine Oxides",trainVal,15,7,7
+CCCCCCOP(=O)(CC(=O)N(CCCC)CCCC)OCCCCCC,"Amide, Phosphine Oxides",trainVal,39,1,1
+CCCCCCP(=O)(CCCCCC)CC(=O)N(CCCC)CCCC,"Amide, Phosphine Oxides, Organophosphine Oxides",trainVal,15,7,7
+CCCCCCOP(=O)(CCC(=O)N(CC)CC)OCCCCCC,"Amide, Phosphine Oxides",trainVal,12,7,7
+CCCCCCP(=O)(CCCCCC)CC(=O)N(CC)CC,"Amide, Phosphine Oxides, Organophosphine Oxides",trainVal,20,7,7
+CCCCCCCC(=O)N(CCCCCC)CCCCCC,Amide,trainVal,12,6,6
+CCCCCCCCCCCCCCC(C(=O)N(C)CCCC)C(=O)N(C)CCCC,Amide,trainVal,10,2,2
+CCCCCCCCN(C)C(=O)C(CCCCCC)(OCC)C(=O)N(C)CCCCCCCC,"Ether, Amide",trainVal,29,8,8
+CCCCCCCCOP(=O)(OCCCCCCCC)C(=O)N(CC)CC,Phosphine Oxides,trainVal,29,1,1
+CCc1nnc(-c2cccc(-c3cccc(-c4nnc(CC)c(CC)n4)n3)n2)nc1CC,Pyridine,trainVal,2,2,2
+CCCCC(CC)COP(=O)(O)OCC(CC)CCCC,Rare groups,trainVal,9,1,1
+CCCCC(CC)COP(=O)(O)CC(CC)CCCC,Rare groups,trainVal,11,1,1
+CCCCCCOCCP(=O)(CC(=O)N(CC(C)C)CC(C)C)c1ccccc1,Rare groups,trainVal,7,7,7
+CCN(CC)C(=O)COc1c2cc(OC)cc1Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OC)cc(c1OCC(=O)N(CC)CC)C2,"Ether, Amide",trainVal,1,1,1
+CCCCCOc1cc2c(OCC(=O)N(CC)CC)c(c1)Cc1cc(OCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCC)cc(c1OCC(=O)N(CC)CC)C2,"Ether, Amide",trainVal,1,1,1
+CCN(CC)C(=O)COc1c2cccc1Cc1cccc(c1OCC(=O)N(CC)CC)Cc1cccc(c1OCC(=O)N(CC)CC)Cc1cccc(c1OCC(=O)N(CC)CC)Cc1cccc(c1OCC(=O)N(CC)CC)Cc1cccc(c1OCC(=O)N(CC)CC)Cc1cccc(c1OCC(=O)N(CC)CC)Cc1cccc(c1OCC(=O)N(CC)CC)C2,"Ether, Amide",trainVal,1,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)C1CCC(C(=O)N(CCCCCCCC)CCCCCCCC)O1,"Ether, Amide, Diglycolamide",trainVal,10,2,2
+CCCCCCN(CC(CC)CCCC)C(=O)CN(CC(=O)N(CC(CC)CCCC)CC(CC)CCCC)CC(=O)N(CC(CC)CCCC)CC(CC)CCCC,Amide,trainVal,12,2,2
+CCCCNC(=O)C(CCCCCC(C(=O)NCCCC)C(=O)NCCCC)C(=O)NCCCC,Amide,trainVal,6,2,2
+CCCCCCCCNC(=O)C(CCCCCC(C(=O)NCCCCCCCC)C(=O)NCCCCCCCC)C(=O)NCCCCCCCC,Amide,trainVal,2,2,2
+CCCCNC(=O)C(CCCCCCC(C(=O)NCCCC)C(=O)NCCCC)C(=O)NCCCC,Amide,trainVal,6,2,2
+CCCCCCCCNC(=O)C(CCCCCCC(C(=O)NCCCCCCCC)C(=O)NCCCCCCCC)C(=O)NCCCCCCCC,Amide,trainVal,6,2,2
+CCCCNC(=O)C(Cc1cccc(CC(C(=O)NCCCC)C(=O)NCCCC)c1)C(=O)NCCCC,Amide,trainVal,6,2,2
+CCCCCCCCNC(=O)C(Cc1cccc(CC(C(=O)NCCCCCCCC)C(=O)NCCCCCCCC)c1)C(=O)NCCCCCCCC,Amide,trainVal,4,2,2
+CCCCNC(=O)CC(=O)Nc1ccccc1NC(=O)CC(=O)NCCCC,Amide,trainVal,2,2,2
+CCCCNC(=O)C(CC)C(=O)Nc1ccccc1NC(=O)C(CC)C(=O)NCCCC,Amide,trainVal,1,1,1
+CCCCNC(=O)CC(=O)Nc1cccc(NC(=O)CC(=O)NCCCC)c1,Amide,trainVal,2,2,2
+CCCCN(C)C(=O)CC(=O)Nc1cccc(NC(=O)CC(=O)N(C)CCCC)c1,Amide,trainVal,2,2,2
+CCCCNC(=O)C(CC)C(=O)Nc1cccc(NC(=O)C(CC)C(=O)NCCCC)c1,Amide,trainVal,2,2,2
+CCCCNC(=O)CC(=O)Nc1ccc(NC(=O)CC(=O)NCCCC)cc1,Amide,trainVal,2,2,2
+CCCCCCCCN(C)C(=O)CC(=O)Nc1ccc(NC(=O)CC(=O)N(C)CCCCCCCC)cc1,Amide,trainVal,2,2,2
+CCCCNC(=O)C(CC)C(=O)Nc1ccc(NC(=O)C(CC)C(=O)NCCCC)cc1,Amide,trainVal,2,2,2
+CCCCNC(=O)CC(=O)NCc1cccc(CNC(=O)CC(=O)NCCCC)c1,Amide,trainVal,55,2,2
+CCCCCCCCN(C)C(=O)CC(=O)NCc1cccc(CNC(=O)CC(=O)N(C)CCCCCCCC)c1,Amide,trainVal,30,2,2
+CCCCNC(=S)C(CC)C(=S)Nc1ccccc1NC(=S)C(CC)C(=S)NCCCC,Other,trainVal,2,2,2
+CCCCNC(=S)CC(=S)Nc1cccc(NC(=S)CC(=S)NCCCC)c1,Other,trainVal,2,2,2
+CCCCNC(=S)CC(=S)NCc1cccc(CNC(=S)CC(=S)NCCCC)c1,Other,trainVal,2,2,2
+CCCCNC(=S)CC(=S)NCc1ccc(CNC(=S)CC(=S)NCCCC)cc1,Other,trainVal,2,2,2
+CCCCNC(=S)C(CC)C(=S)NCc1ccc(CNC(=S)C(CC)C(=S)NCCCC)cc1,Other,trainVal,2,2,2
+CCCCNC(=O)CC(=O)NCc1ccccc1,Amide,trainVal,2,2,2
+CCCCCCCCNC(=O)CC(=O)NCc1ccccc1,Amide,trainVal,2,2,2
+CCCCN(CCCC)C(=O)COCC(=O)NCc1cccc(CNC(=O)COCC(=O)N(CCCC)CCCC)c1,"Ether, Amide",trainVal,2,2,2
+CCCCCCCCN(C)C(=O)COCC(=O)NCc1cccc(CNC(=O)COCC(=O)N(C)CCCCCCCC)c1,"Ether, Amide",trainVal,2,2,2
+CC(C)CCN(CCC(C)C)C(=O)COCC(=O)NCc1cccc(CNC(=O)COCC(=O)N(CCC(C)C)CCC(C)C)c1,"Ether, Amide",trainVal,2,2,2
+CCCCCCOc1cc(CNC(=O)COCC(=O)N(CCCC)CCCC)cc(CNC(=O)COCC(=O)N(CCCC)CCCC)c1,"Ether, Amide",trainVal,2,2,2
+CCCCCCCCCCCCOc1cc(CNC(=O)COCC(=O)N(CCCC)CCCC)cc(CNC(=O)COCC(=O)N(CCCC)CCCC)c1,"Ether, Amide",trainVal,2,2,2
+CCCCCC(C)Oc1cc(CNC(=O)COCC(=O)N(CCCC)CCCC)cc(CNC(=O)COCC(=O)N(CCCC)CCCC)c1,"Ether, Amide",trainVal,2,2,2
+CCCCCCCCN(C)C(=O)COCC(=O)N(C)Cc1cccc(CN(C)C(=O)COCC(=O)N(C)CCCCCCCC)c1,"Ether, Amide, Diglycolamide",trainVal,2,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide",trainVal,2,2,2
+CCCCN(CCCC)C(=O)COCC(=O)NCCCCCCNC(=O)COCC(=O)N(CCCC)CCCC,"Ether, Amide",trainVal,2,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCCCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide",trainVal,2,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCCCCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide",trainVal,1,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCOCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide",trainVal,2,2,2
+CCN(CC)C(=O)COc1c2cc(OCc3ccccc3)cc1Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)C2,"Ether, Amide",trainVal,1,1,1
+CCCCCCCCOc1cc2c(OCC(=O)N(CC)CC)c(c1)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCCCCCCCC)cc(c1OCC(=O)N(CC)CC)C2,"Ether, Amide",trainVal,1,1,1
+CCN(CC)C(=O)COc1c2cc(OCc3ccccc3)cc1Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)Cc1cc(OCc3ccccc3)cc(c1OCC(=O)N(CC)CC)C2,"Ether, Amide",trainVal,1,1,1
+CCCCCCCCP(=O)(CC(=O)N(CCCC)CCCC)c1ccccc1,"Amide, Phosphine Oxides",trainVal,6,6,6
+CCCCCOP(=O)(CP(=O)(OCCCCC)OCCCCC)OCCCCC,Phosphine Oxides,trainVal,40,1,1
+CCCCOP(=O)(OCCCC)OCCCC,Phosphine Oxides,trainVal,27,7,7
+CC(C)CN(CC(C)C)C(=O)CP(=O)(CC(C)CC(C)(C)C)c1ccccc1,"Amide, Phosphine Oxides",trainVal,7,7,7
+CCCCCCCCP(=O)(CCCCCCCC)CCCCCCCC,Rare groups,trainVal,19,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCc1cccc(CNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1,"Ether, Amide",trainVal,26,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCc1ccc(CNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)cc1,"Ether, Amide",trainVal,12,2,2
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCCOCCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide",trainVal,12,2,2
+CC(C)c1nnc(-c2cccc(-c3nnc(C(C)C)c(C(C)C)n3)n2)nc1C(C)C,Pyridine,trainVal,10,2,2
+CCCCN(CCCC)C(=O)COCC(=O)NCCNC(=O)COCC(=O)N(CCCC)CCCC,"Ether, Amide",trainVal,6,1,1
+CCCCCCN(CCCCCC)C(=O)COCC(=O)NCCNC(=O)COCC(=O)N(CCCCCC)CCCCCC,"Ether, Amide",trainVal,6,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide",trainVal,6,1,1
+CCCCCCN(CCCCCC)C(=O)COCC(=O)N(CC)CCN(CC)C(=O)COCC(=O)N(CCCCCC)CCCCCC,"Ether, Amide, Diglycolamide",trainVal,6,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CC)CCN(CC)C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,6,1,1
+CCCCCCN(CCCCCC)C(=O)COCC(=O)N(CCN(C(=O)COCC(=O)N(CCCCCC)CCCCCC)C(C)C)C(C)C,"Ether, Amide, Diglycolamide",trainVal,6,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)N(CCN(C(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)C(C)C)C(C)C,"Ether, Amide, Diglycolamide",trainVal,6,1,1
+O=C(COCC(=O)N(c1ccccc1)c1ccccc1)N(c1ccccc1)c1ccccc1,"Ether, Amide",trainVal,3,1,1
+CC(C)CCN(CCC(C)C)C(=O)COCC(=O)N(CCC(C)C)CCC(C)C,"Ether, Amide, Diglycolamide",trainVal,52,3,3
+CCCCCCCCCCN(CCCCCCCCCC)C(=O)[C@H](CCC)O[C@@H](CCC)C(=O)N(CCCCCCCCCC)CCCCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,15,3,3
+CCCCCCCCN(CCCCCCCC)C(=O)[C@H](CCC)O[C@H](CCC)C(=O)N(CCCCCCCC)CCCCCCCC,"Ether, Amide, Diglycolamide",trainVal,15,3,3
+CCCCC(CC)CN(CC(CC)CCCC)C(=O)CCC,Amide,trainVal,6,1,1
+CCCCCCOP(=O)(CCCCCC)CC(=O)N(CC)CC,"Amide, Phosphine Oxides",trainVal,13,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)CN(C)CC(=O)N(CCCCCCCC)CCCCCCCC,Amide,trainVal,7,1,1
+CCCCCNC(=O)CC(=O)NCc1cccc(CNC(=O)CC(=O)NCCCCC)c1,Amide,trainVal,6,1,1
+CCCCCCCCNC(=O)CC(=O)NCc1cccc(CNC(=O)CC(=O)NCCCCCCCC)c1,Amide,trainVal,4,1,1
+CCCCN(C)C(=O)CC(=O)NCc1cccc(CNC(=O)CC(=O)N(C)CCCC)c1,Amide,trainVal,1,1,1
+CCCCNC(=O)C(CC)C(=O)NCc1cccc(CNC(=O)C(CC)C(=O)NCCCC)c1,Amide,trainVal,3,1,1
+CCCCCCCCNC(=O)C(CC)C(=O)NCc1cccc(CNC(=O)C(CC)C(=O)NCCCCCCCC)c1,Amide,trainVal,3,1,1
+CCCCCCCCCCCCCCOc1cc(CNC(=O)CC(=O)NCCCC)cc(CNC(=O)CC(=O)NCCCC)c1,"Ether, Amide",trainVal,1,1,1
+CCCCNC(=O)CC(=O)NCc1ccc(CNC(=O)CC(=O)NCCCC)cc1,Amide,trainVal,3,1,1
+CCCCCNC(=O)CC(=O)NCc1ccc(CNC(=O)CC(=O)NCCCCC)cc1,Amide,trainVal,2,1,1
+CCCCCCCCNC(=O)CC(=O)NCc1ccc(CNC(=O)CC(=O)NCCCCCCCC)cc1,Amide,trainVal,3,1,1
+CCCCNC(=O)C(CC)C(=O)NCc1ccc(CNC(=O)C(CC)C(=O)NCCCC)cc1,Amide,trainVal,2,1,1
+CCCCCCCCNC(=O)C(CC)C(=O)NCc1ccc(CNC(=O)C(CC)C(=O)NCCCCCCCC)cc1,Amide,trainVal,3,1,1
+CCCCCCCCN(C)C(=O)C(CC)C(=O)NCc1ccc(CNC(=O)C(CC)C(=O)N(C)CCCCCCCC)cc1,Amide,trainVal,1,1,1
+CCCCC(CC)COP(=O)(OCC(CC)CCCC)OCC(CC)CCCC,Phosphine Oxides,trainVal,11,1,1
+CCCCN(CCCC)C(=O)COCC(=O)N(CCCC)CCCC,"Ether, Amide, Diglycolamide",test,234,14,14
+CCCCCCCCN(CCCCCCCC)C(=O)COCC(=O)NCCNC(=O)c1cc(C(=O)NCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)cc(C(=O)NCCNC(=O)COCC(=O)N(CCCCCCCC)CCCCCCCC)c1,"Ether, Amide",test,68,3,3
+CCCCCCCCCCCCN(CCC)C(=O)COCC(=O)N(CCC)CCCCCCCCCCCC,"Ether, Amide, Diglycolamide",test,26,1,1
+CCN(C(=O)c1cccc(-c2cccc(C(=O)N(CC)c3cc(C)ccc3C)n2)n1)c1cc(C)ccc1C,"Amide, Pyridine",test,13,13,13
+CCc1ccc(N(CC)C(=O)c2ccc3ccc4ccc(C(=O)N(CC)c5ccc(CC)cc5)nc4c3n2)cc1,"Amide, Pyridine",test,14,14,14
+CCCCCCN(C)C(=O)CC(=O)N(C)CCCCCC,Amide,test,9,9,9
+CCCCCCN(CCCC(C)CC(C)(C)C)C(=O)COCC(=O)N(CCCCCC)CCCC(C)CC(C)(C)C,"Ether, Amide, Diglycolamide",test,14,14,14
+CC12CCC(c3nnc(-c4cccc(-c5cccc(-c6nnc7c(n6)C6(C)CCC7C6(C)C)n5)n4)nc31)C2(C)C,Pyridine,test,28,2,2
+CCCCC(CC)CN(CC(CC)CCCC)C(=O)CN(CC(=O)N(CC(CC)CCCC)CC(CC)CCCC)CC(=O)N(CC(CC)CCCC)CC(CC)CCCC,Amide,test,12,2,2
+CCCCCCCCNC(=O)c1cnccn1,Amide,test,2,2,2
+CCCCOP(=S)(COCP(=S)(OCCCC)OCCCC)OCCCC,Ether,test,6,1,1
+CCCCCCCCN(CCCCCCCC)C(=O)COCP(=O)(CCCC)CCCC,Rare groups,test,12,2,2
+CCCCC(CC)CP(=O)(CC(=O)N(CC(C)C)CC(C)C)c1ccccc1,"Amide, Phosphine Oxides",test,7,7,7
+CCCCNC(=S)C(CC)C(=S)Nc1cccc(NC(=S)C(CC)C(=S)NCCCC)c1,Other,test,2,2,2
+CCCCN(CCCC)C(=O)COCC(=O)NCCCCCNC(=O)COCC(=O)N(CCCC)CCCC,"Ether, Amide",test,2,2,2

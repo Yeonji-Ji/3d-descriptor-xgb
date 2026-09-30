@@ -1,0 +1,8 @@
+19:04:27  fs5_2D_PDsummary_rdkit_cond: 1929 features | trainVal (6604, 1929) | test (449, 1929)
+19:04:27  class distribution (trainVal): {0: 1633, 1: 1397, 2: 3574}
+19:04:27  fold 0: train rows 5658, val rows 946, val ligands 41
+19:04:27  fold 1: train rows 5769, val rows 835, val ligands 41
+19:04:27  fold 2: train rows 6037, val rows 567, val ligands 41
+19:14:47  best params: {'n_estimators': 500, 'min_child_weight': 1, 'max_depth': 9, 'learning_rate': 0.2, 'lambda': 10, 'colsample_bytree': 0.8, 'alpha': 0.01}
+19:14:47  best CV val accuracy: 0.6421
+19:14:47  test acc 0.6949 | balanced 0.7056 | F1 macro 0.6731 | 10.3 min

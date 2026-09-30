@@ -1,0 +1,20 @@
+{
+ "featureset": "fs1_2D_rdkit_cond",
+ "blocks": "rdkit+cond+metal+2D",
+ "n_features": 1860,
+ "cv_val_acc_mean": 0.6602,
+ "cv_val_acc_std": 0.0296,
+ "cv_train_acc_mean": 0.97,
+ "test_acc": 0.7105,
+ "test_balanced_acc": 0.7168,
+ "test_f1_macro": 0.6911,
+ "test_f1_class0": 0.752,
+ "test_f1_class1": 0.5267,
+ "test_f1_class2": 0.7945,
+ "importance_2D": 0.8131999969482422,
+ "importance_cond": 0.01209999993443489,
+ "importance_metal": 0.004900000058114529,
+ "importance_rdkit": 0.16979999840259552,
+ "best_params": "{\"n_estimators\": 500, \"min_child_weight\": 5, \"max_depth\": 9, \"learning_rate\": 0.3, \"lambda\": 20, \"colsample_bytree\": 0.6, \"alpha\": 0.01}",
+ "runtime_min": 8.9
+}

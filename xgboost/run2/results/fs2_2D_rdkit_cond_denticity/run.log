@@ -1,0 +1,8 @@
+18:39:19  fs2_2D_rdkit_cond_denticity: 1861 features | trainVal (6604, 1861) | test (449, 1861)
+18:39:19  class distribution (trainVal): {0: 1633, 1: 1397, 2: 3574}
+18:39:19  fold 0: train rows 5658, val rows 946, val ligands 41
+18:39:19  fold 1: train rows 5769, val rows 835, val ligands 41
+18:39:19  fold 2: train rows 6037, val rows 567, val ligands 41
+18:47:53  best params: {'n_estimators': 200, 'min_child_weight': 1, 'max_depth': 6, 'learning_rate': 0.2, 'lambda': 5, 'colsample_bytree': 0.4, 'alpha': 0.5}
+18:47:53  best CV val accuracy: 0.6646
+18:47:53  test acc 0.7283 | balanced 0.7426 | F1 macro 0.7185 | 8.6 min

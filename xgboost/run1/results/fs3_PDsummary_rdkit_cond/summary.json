@@ -1,0 +1,20 @@
+{
+ "featureset": "fs3_PDsummary_rdkit_cond",
+ "blocks": "rdkit+cond+metal+PDsummary",
+ "n_features": 258,
+ "cv_val_acc_mean": 0.6316,
+ "cv_val_acc_std": 0.0403,
+ "cv_train_acc_mean": 0.9733,
+ "test_acc": 0.6993,
+ "test_balanced_acc": 0.7157,
+ "test_f1_macro": 0.681,
+ "test_f1_class0": 0.7481,
+ "test_f1_class1": 0.5176,
+ "test_f1_class2": 0.7773,
+ "importance_PDsummary": 0.13490000367164612,
+ "importance_cond": 0.04390000179409981,
+ "importance_metal": 0.02930000051856041,
+ "importance_rdkit": 0.7918999791145325,
+ "best_params": "{\"n_estimators\": 300, \"min_child_weight\": 0.5, \"max_depth\": 21, \"learning_rate\": 0.1, \"lambda\": 5, \"colsample_bytree\": 0.8, \"alpha\": 0.01}",
+ "runtime_min": 5.2
+}

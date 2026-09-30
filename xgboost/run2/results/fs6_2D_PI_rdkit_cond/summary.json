@@ -1,0 +1,21 @@
+{
+ "featureset": "fs6_2D_PI_rdkit_cond",
+ "blocks": "rdkit+cond+metal+2D+PI",
+ "n_features": 2689,
+ "cv_val_acc_mean": 0.6446,
+ "cv_val_acc_std": 0.0548,
+ "cv_train_acc_mean": 0.97,
+ "test_acc": 0.6592,
+ "test_balanced_acc": 0.6948,
+ "test_f1_macro": 0.6425,
+ "test_f1_class0": 0.6901,
+ "test_f1_class1": 0.4981,
+ "test_f1_class2": 0.7392,
+ "importance_2D": 0.5893999934196472,
+ "importance_PI": 0.164900004863739,
+ "importance_cond": 0.013399999588727951,
+ "importance_metal": 0.007400000002235174,
+ "importance_rdkit": 0.2249000072479248,
+ "best_params": "{\"n_estimators\": 200, \"min_child_weight\": 3, \"max_depth\": 15, \"learning_rate\": 0.1, \"lambda\": 5, \"colsample_bytree\": 0.6, \"alpha\": 0.5}",
+ "runtime_min": 54.1
+}

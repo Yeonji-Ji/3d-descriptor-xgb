@@ -1,0 +1,8 @@
+19:14:48  fs6_2D_PI_rdkit_cond: 2689 features | trainVal (6604, 2689) | test (449, 2689)
+19:14:48  class distribution (trainVal): {0: 1633, 1: 1397, 2: 3574}
+19:14:48  fold 0: train rows 5658, val rows 946, val ligands 41
+19:14:48  fold 1: train rows 5769, val rows 835, val ligands 41
+19:14:48  fold 2: train rows 6037, val rows 567, val ligands 41
+20:08:54  best params: {'n_estimators': 200, 'min_child_weight': 3, 'max_depth': 15, 'learning_rate': 0.1, 'lambda': 5, 'colsample_bytree': 0.6, 'alpha': 0.5}
+20:08:54  best CV val accuracy: 0.6446
+20:08:54  test acc 0.6592 | balanced 0.6948 | F1 macro 0.6425 | 54.1 min

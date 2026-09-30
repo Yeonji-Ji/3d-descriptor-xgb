@@ -1,0 +1,4 @@
+idx,group,seed,metal,heavy_atoms_equal,heavy_H0_shape_equal,heavy_H0_max_abs_diff,heavy_H1_shape_equal,heavy_H1_max_abs_diff,heavy_pairs_equal,MNO_atoms_equal,MNO_H0_shape_equal,MNO_H0_max_abs_diff,MNO_H1_shape_equal,MNO_H1_max_abs_diff,MNO_pairs_equal,MNOS_atoms_equal,MNOS_H0_shape_equal,MNOS_H0_max_abs_diff,MNOS_H1_shape_equal,MNOS_H1_max_abs_diff,MNOS_pairs_equal
+40,G3,11,Eu,True,True,0.0,True,0.0,True,True,True,0.0,True,0.0,True,True,True,0.0,True,0.0,True
+187,G4,15,Eu,True,True,0.0,True,0.0,True,True,True,0.0,True,0.0,True,True,True,0.0,True,0.0,True
+34,G7,40,Eu,True,True,0.0,True,0.0,True,True,True,0.0,True,0.0,True,True,True,0.0,True,0.0,True
