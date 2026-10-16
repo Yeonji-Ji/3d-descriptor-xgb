@@ -14,3 +14,6 @@ data/
 
 # OS
 .DS_Store
+
+# Korean-language READMEs (kept locally, not published)
+xgboost/config/featuresets-README.md
